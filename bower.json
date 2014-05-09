@@ -1,9 +1,9 @@
 {
   "name": "bootstrap-tagsinput",
-  "version": "0.3.9",
-  "homepage": "https://github.com/TimSchlechter/bootstrap-tagsinput",
+  "version": "0.3.9-missing-apply-patch",
+  "homepage": "https://github.com/martintro/bootstrap-tagsinput",
   "authors": [
-    "Tim Schlechter"
+    "Martin Troedsson forked from Tim Schlechter"
   ],
   "description": "jQuery plugin providing a Twitter Bootstrap user interface for managing tags.",
   "main": [

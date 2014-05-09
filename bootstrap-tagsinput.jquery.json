@@ -1,9 +1,9 @@
 {
   "name": "bootstrap-tagsinput",
-  "version": "0.3.9",
+  "version": "0.3.9-missing-apply-patch",
   "title": "Bootstrap Tags Input",
   "author": {
-    "name": "Tim Schlechter"
+    "name": "Martin Troedsson forked from Tim Schlechter"
   },
   "licenses": [
     {
@@ -22,6 +22,6 @@
     "select",
     "form"
   ],
-  "homepage": "http://timschlechter.github.io/bootstrap-tagsinput/examples/",
-  "download": "http://timschlechter.github.io/bootstrap-tagsinput/build/bootstrap-tagsinput.zip"
+  "download": "http://github.com/martintro/bootstrap-tagsinput/tree/missing-apply-patch/build/bootstrap-tagsinput.zip",
+  "homepage": "http://timschlechter.github.io/bootstrap-tagsinput/examples/"
 }

@@ -35,6 +35,9 @@ Include [bootstrap-tagsinput-angular.js](https://github.com/TimSchlechter/bootst
 
 ## History
 
+__0.3.9-missing-apply-patch__
+* Patch to version 0.3.9 that calls AngularJS apply when tags changes
+
 __0.3.9__
 * [#48: Type ahead stops when entering second character](https://github.com/TimSchlechter/bootstrap-tagsinput/issues/48)
 
